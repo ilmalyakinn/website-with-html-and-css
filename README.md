@@ -14,7 +14,7 @@ Repository ini berisi dua proyek website sederhana yang dirancang menggunakan HT
 
 ### Video Blog Pribadi<br>
 
-https://github.com/user-attachments/assets/e6d67d61-c794-4bc2-b0b4-c643c8463f2e
+https://github.com/user-attachments/assets/e346b507-0121-419b-9e6f-38ed98619462
 
 ---
 
@@ -27,7 +27,7 @@ https://github.com/user-attachments/assets/e6d67d61-c794-4bc2-b0b4-c643c8463f2e
 
 ### Video Galeri Animasi<br>
 
-https://github.com/user-attachments/assets/e346b507-0121-419b-9e6f-38ed98619462
+https://github.com/user-attachments/assets/e6d67d61-c794-4bc2-b0b4-c643c8463f2e
 
 ---
 
